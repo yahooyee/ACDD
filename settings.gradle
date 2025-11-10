@@ -27,3 +27,4 @@
 
 include ':ACDDLauncher'
 include ':ACDDCore'
+include ':eventframework'
