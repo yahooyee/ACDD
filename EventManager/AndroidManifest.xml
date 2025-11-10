@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.acdd.eventmanager">
+    
+    <!-- 库模块，无需声明组件 -->
+    
+</manifest>
